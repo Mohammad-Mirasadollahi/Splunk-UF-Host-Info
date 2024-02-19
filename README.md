@@ -1,5 +1,5 @@
 # Splunk-UF-Time-Sync
-Script for checking the Splunk Universal Forwarder time on Windows and Linux
+Scripts for checking the Splunk Universal Forwarder time on Windows and Linux
 
 You can use these scripts, for Windows and Linux, to check the health of the time on hosts where Splunk Universal Forwarder is installed. You can apply these scripts to all your UFs using the Deployment Server.
 
