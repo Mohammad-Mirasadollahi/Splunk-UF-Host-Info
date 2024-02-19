@@ -8,6 +8,7 @@ Note: When applying the script on Linux, make sure to grant executable permissio
 These scripts store all relevant information in the following paths, and you can change the default logs path by modifying the scripts.
 
 Default paths:
+
 Windows: C:\Windows\System32\LogFiles\server_info.log 
 
 Linux: /var/log/server_info.log
