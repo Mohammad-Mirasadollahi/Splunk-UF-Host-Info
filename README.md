@@ -1,4 +1,4 @@
-# Splunk-UF-Server-Info
+# Splunk UF Host Info
 Scripts for checking the Splunk Universal Forwarder host information on Windows and Linux
 
 You can use these scripts, for Windows and Linux, to check the information of the hosts where Splunk Universal Forwarder is installed.
